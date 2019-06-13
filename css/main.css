@@ -69,6 +69,30 @@ a {
   margin-bottom: 5px !important;
 }
 
-.input-alert {
+.error-group .required {
   border: 2px solid red !important;
 }
+
+.error-group  .invalid-feedback {
+  display: block;
+}
+
+.loggedin_con{
+  display: none;
+  margin: 10px auto;
+  max-width: 400px;
+  background: rgba(255, 255, 255, 0.478);
+  text-align: center;
+  padding: 20px;
+}
+
+.login .loggedin_con{
+  display: block;
+}
+
+.login .form_wrapper{
+  display: none;
+}
+
+.
+
