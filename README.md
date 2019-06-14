@@ -1,5 +1,5 @@
 # Register-form
-inside root dir -- 
+inside root dir ---
 npm install
-after installation --
+after installation ---
 npm run start
